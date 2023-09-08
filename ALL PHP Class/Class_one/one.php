@@ -52,3 +52,6 @@ echo "Total Multiplication is $num3 <br/>";
 echo "Total Division is $num2 / $num1 = $division <br/>";
 echo "Total modulus is $num2 % $num1 = $modulus <br/>";
 
+
+echo "Now good Night";
+
